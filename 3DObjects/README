@@ -1,0 +1,14 @@
+CSCI 4229 Computer Graphics
+Fall 2015
+
+Taylor Andrews
+
+**Key Bindings**    
+  1      Zoom Out
+  2      Zoom in
+  3      Reset to default zoom
+  8      Reset view angle to y,z
+  9      Reset view angle to x,z
+  0      Reset view angle to x,y
+  arrows Change view angle
+  ESC    Exit
