@@ -1,2 +1,2 @@
 # CSCI-4229
-Computer Graphics
+Homework from Computer Graphics, CSCI 4229
