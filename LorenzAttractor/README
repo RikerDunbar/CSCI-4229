@@ -1,0 +1,20 @@
+CSCI 4229 Computer Graphics
+Fall 2015
+
+Taylor Andrews
+
+**Key Bindings**
+ 1      Decrement lorenz s value by .25
+ 2      Increment lorenz s value by .25
+ 3      Decrement lorenz b value by .05
+ 4      Increment lorenz b value by .05
+ 5      Decrement lorenz r value by .5
+ 6      Increment lorenz r value by .5
+ 7      Reset Lorenz params to default values
+ 8      Reset view angle to y,z
+ 9      Reset view angle to x,z
+ 0      Reset view angle to x,y
+ arrows Change view angle
+ t      Toggle running the trace of the lorenz
+ 		Hit t to turn the trace on and off
+ ESC    Exit
